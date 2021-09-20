@@ -11,16 +11,6 @@
       "points": 5
     },
     {
-      "name": "Check Warnings",
-      "setup": "",
-      "run": "bash check_warnings.sh",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 3,
-      "points": 5
-    },
-    {
       "name": "Recompile (No Points)",
       "setup": "",
       "run": "bash recompile_homework.sh",
@@ -38,7 +28,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 18
+      "points": 20
     },
     {
       "name": "Running Group B Tests",
@@ -48,7 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 18
+      "points": 20
     },
     {
       "name": "Running Group C Tests",
@@ -58,7 +48,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 18
+      "points": 20
     },
     {
       "name": "Running Group D Tests",
@@ -68,7 +58,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 18
+      "points": 20
     },
     {
       "name": "Running Group E Tests",
@@ -78,7 +68,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 3,
-      "points": 18
+      "points": 15
     }
   ]
 }

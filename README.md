@@ -28,6 +28,8 @@ Below are some hints that may help with this homework assignment:
        OuterClass.InnerClass example = new OuterClass().new InnerClass();
        ```
 
+  - This homework will *not* check for warnings due to a [open bug](https://bugs.java.com/bugdatabase/view_bug.do?bug_id=8265253) involving Javadoc comments for anonymous inner classes.
+
   - This homework will not be directly used by any project. However, it is useful for demonstrating different approaches to sorting data, which may come in handy for project 2 when sorting search results.
 
 These hints are *optional*. There may be multiple approaches to solving this homework.
