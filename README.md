@@ -3,7 +3,7 @@ TextFileSorter
 
 ![Points](../../blob/badges/points.svg)
 
-For this homework, you will **PENDING**.
+For this homework, you will explore using the [Comparable](https://www.cs.usfca.edu/~cs272/javadoc/api/java.base/java/lang/Comparable.html) and [Comparator](https://www.cs.usfca.edu/~cs272/javadoc/api/java.base/java/util/Comparator.html) interfaces, and anonymous inner classes, non-static inner classes, and static nested classes to sort text files by different properties.
 
 ## Hints ##
 
@@ -25,7 +25,7 @@ Below are some hints that may help with this homework assignment:
       This can be combined into a single line as follows:
 
       ```java
-       var example = new OuterClass().new InnerClass();
+       OuterClass.InnerClass example = new OuterClass().new InnerClass();
        ```
 
   - This homework will not be directly used by any project. However, it is useful for demonstrating different approaches to sorting data, which may come in handy for project 2 when sorting search results.
